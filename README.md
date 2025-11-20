@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak (Rocky)</h1>
+<h1 align="center">Hi 👋, I'm Deepak </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00AEEF&lines=Aspiring+Full-Stack+Developer;Learning+Step+by+Step;Building+My+Tech+Journey;Coding+Every+Day+To+Improve)](https://git.io/typing-svg)
 
